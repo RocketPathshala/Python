@@ -1,0 +1,8 @@
+0
+1.0
+string
+<type 'str'>
+(3+4j)
+<type 'complex'>
+Please enter your name: 
+hello Arpan
